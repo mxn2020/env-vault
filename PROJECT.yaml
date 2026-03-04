@@ -1,0 +1,13 @@
+id: cf992daf-3e8d-4821-be91-01e37b08b177
+name: env-vault
+description: React + TypeScript + Vite
+tier: prototype
+lane: oss
+priority: medium
+oss: false
+stack: [typescript, react, convex, vite]
+repo: "https://github.com/mxn2020/env-vault"
+deploy_url: null
+last_active: 2026-02-24
+tags: []
+notes: 
